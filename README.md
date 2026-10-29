@@ -1,0 +1,1 @@
+Installer pubblici di LayerStacker.
